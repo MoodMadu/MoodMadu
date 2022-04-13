@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=MoodMadu&color=yellow" alt="Profile views" />
 </p>
 <ul>
-  <li> :fire: Desenvolvedor front-end e back-and em fase de criação nas horas vagas
+  <li> :fire: Desenvolvedor front-end e back-end nas horas vagas
   <li> :video_game: Nerd gamer padrão
   <li> :mortar_board: Cursando Bacharelado em Tecnologia da Informação
 </ul>
