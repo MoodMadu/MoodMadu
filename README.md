@@ -6,7 +6,6 @@
   <li> :fire: Desenvolvedor front-end e back-and em fase de criação nas horas vagas
   <li> :video_game: Nerd gamer padrão
   <li> :mortar_board: Cursando Bacharelado em Tecnologia da Informação
-  <li> :headphones: Viciado em Green Day
 </ul>
 
 <br><br>
